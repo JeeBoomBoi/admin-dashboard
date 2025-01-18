@@ -134,7 +134,7 @@ button {
 }
 
 .main-content {
-    padding-left: 16px;
+    padding: 0 16px 20px 16px;
     gap: 30px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
